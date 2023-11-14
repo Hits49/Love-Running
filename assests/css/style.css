@@ -1,5 +1,5 @@
 /* Google font import*/
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200; 300; 400; 500; 600 &display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&display=swap');
 
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
@@ -125,7 +125,7 @@ footer {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hoover {
+    #menu a:hover {
         border-bottom: 1px soild #3a3a3a;
     }
 }
